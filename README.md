@@ -27,36 +27,36 @@ Ele não é outro método, mas uma ferramenta para a reflexão:
 O que podemos alavancar na empresa para melhorar a agilidade dos negócios e alcançar o direcionamento e resultados desejados?
 
 
-Por que "Níveis de Voo"?
+## Por que "Níveis de Voo"?
 As organizações devem ser pensadas como três níveis inter-relacionados: estratégico, de coordenação e operacional.
 
-Nível 3: Estratégico
+## Nível 3: Estratégico
 O Flight Levels 3 é dedicado à estratégia. Neste nível, os objetivos são definidos e colocados em um contexto temporal amplo, que envolve dois, três, cinco ou mais anos, dependendo do cenário de negócio Em seguida, o foco passa a ser: 1 ano, os próximos três meses ou o período de prazo mais curto (caso seja o contexto).
 
 Uma ferramenta popular para esse trabalho de estratégia é o OKR - Objetivos e Resultados-chave. Mas independentemente de como a estratégia é criada e de quantos níveis hierárquicos estão no Flight Level 3, eventualmente as “ações” (iniciativas, atividades ou projetos) são criadas.
 
 Esta seleção de ações a serem executadas cria foco de forma eficiente. Depois, essas ações priorizadas no Flight Level 3 irão servir de entrada para o Flight Level 2. 
 
-Nível 2: Coordenação
+## Nível 2: Coordenação
 O Flight Level 2 é onde a coordenação de ponta a ponta na empresa acontece. As “ações” do Flight Level 3 são a lista de itens para o Flight Level 2. Tarefas grandes (às vezes chamadas de épicos) são retiradas do backlog para serem priorizadas e incluídas no backlog de implementação para as equipes (Flight Level 1).
 
 As equipes assumem o trabalho de forma puxada quando têm capacidade disponível. Cada ação é acompanhada por “interações ágeis” em intervalos regulares. Essas interações também estabelecem a área de foco para a próxima iteração no Flight Level 2, deixando claro o que o Flight Level 1 precisa executar.
 
-Nível 1: Operacional
+## Nível 1: Operacional
 Este é o nível operacional da organização. É aqui que os times ou áreas executam o trabalho priorizado do Flight Level 2, e assim realizam as entregas. Para cada iteração, os times ou áreas se concentram em um determinado escopo. Por exemplo, as grandes ações (épicos, iniciativas , etc.) são divididas em tarefas para serem executadas, e o trabalho concluído é entregue.
 
 Podem surgir tópicos estratégicos, ou ainda relativos a produtos e serviços, que se cruzam de alguma forma que não devem ser tratados como trabalho puramente operacional. Ou seja, tópicos que têm uma influência importante na estratégia.
 
 Nesse caso, cabe ao Flight Level 1 passar esses tópicos para o Flight Level 2 ou mesmo para o 3, para que possam ser pensados, analisados e planejados nas próximas iterações.
 
-Como o Flight Levels ajuda as empresas
+## Como o Flight Levels ajuda as empresas
 
 A proposta do Flight Levels é ajudar líderes de empresas a compreender e gerenciar o fluxo de trabalho entre as várias estruturas operacionais da organização e conectar os níveis de voo. Tudo isso para estabelecer um foco compartilhado e manter a energia coletiva em entregas estratégicas. Mas como essas ações se traduzem em melhorias práticas?
 
 
 O Flight Levels envolve um comprometimento da gestão para alcançar os objetivos desejados.
 
-O que é Flight Levels e como ele pode ajudar nos resultados
+##  O que é Flight Levels e como ele pode ajudar nos resultados
 Descubra o que é flight levels
 
 ![image](https://user-images.githubusercontent.com/52088444/231830868-febe1e7b-9cd9-4336-b394-3b1b05e9ce51.png)
@@ -81,15 +81,15 @@ Este é o nível de voo mais alto. Ele tem o foco no alinhamento entre a prioriz
 
 O C-Level aqui também se torna Agile, isto é, verdadeiramente adaptável à realidade do mercado e dos consumidores.
 
-Existem 5 atividades de Flight Levels:
+## Existem 5 atividades de Flight Levels:
 
-Visualizar a situação
-Criar foco
-Estabelecer interações ágeis
-Medir o progresso
-Operar e melhorar.
+- Visualizar a situação
+- Criar foco
+- Estabelecer interações ágeis
+- Medir o progresso
+- Operar e melhorar.
 
-Atividade do Flight Levels: Visualizar a situação
+## Atividade do Flight Levels: Visualizar a situação
 
 Visualizar a situação é uma atividade de observação
 Precisamos focar em como realmente a empresa opera antes de reconstruir a estrutura organizacional.
@@ -105,12 +105,12 @@ Mas essa comunicação entre áreas e times para que este alinhamento aconteça 
 Um dos pontos que precisam ser alinhados é que o gerenciamento estratégico de portfólio é sobre resultado em vez de produção. Flight Levels cria esse alinhamento e garante a maximização dos resultados das companhias.
 
 
-O que é Flight Levels
+## O que é Flight Levels
 Para alcançar os resultados desejados da sua organização, é preciso descobrir onde e o que deve ser feito.
 
 Flight Levels é o modelo de pensamento que ajuda a criar a conexão que falta entre os diferentes níveis da organização para que a mesma tenha business agility e gere mais resultados. 
 
-Flight Levels e Business Agility
+## Flight Levels e Business Agility
 
 Muitas organizações estão batendo cabeça durante sua transformação Ágil em busca de Business Agility. O plano estava claro, bem desenhado e comprado pela gestão, os times agora são chamados de Squads e o framework ou método Ágil já foi escolhido e implementado com razoável sucesso na TI.
 
